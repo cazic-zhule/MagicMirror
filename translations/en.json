@@ -29,14 +29,14 @@
 	"PRECIP": "PoP",
 
 	"MODULE_CONFIG_CHANGED": "The configuration options for the {MODULE_NAME} module have changed.\nPlease check the documentation.",
-	"MODULE_CONFIG_ERROR": "Error in the {MODULE_NAME} module. {ERROR}",
-	"MODULE_ERROR_MALFORMED_URL": "Malformed url.",
-	"MODULE_ERROR_NO_CONNECTION": "No internet connection.",
-	"MODULE_ERROR_UNAUTHORIZED": "Authorization failed.",
-	"MODULE_ERROR_UNSPECIFIED": "Check logs for more details.",
+	"MODULE_CONFIG_ERROR": "{MODULE_NAME} esploded... {ERROR}",
+	"MODULE_ERROR_MALFORMED_URL": "Uhh... that url is a crayon.",
+	"MODULE_ERROR_NO_CONNECTION": "Definetly Not Non missing internet connection.",
+	"MODULE_ERROR_UNAUTHORIZED": "Password? I don't need no stinking password!.",
+	"MODULE_ERROR_UNSPECIFIED": "Check rotten logs for juicy bugs.",
 
-	"UPDATE_NOTIFICATION": "MagicMirror² update available.",
-	"UPDATE_NOTIFICATION_MODULE": "Update available for {MODULE_NAME} module.",
-	"UPDATE_INFO_SINGLE": "The current installation is {COMMIT_COUNT} commit behind on the {BRANCH_NAME} branch.",
-	"UPDATE_INFO_MULTIPLE": "The current installation is {COMMIT_COUNT} commits behind on the {BRANCH_NAME} branch."
+	"UPDATE_NOTIFICATION": "Hey guys... The monkey needs water...",
+	"UPDATE_NOTIFICATION_MODULE": "{MODULE_NAME} is best module!",
+	"UPDATE_INFO_SINGLE": "The current installation is a banana behind",
+	"UPDATE_INFO_MULTIPLE": "The current installation is an apple ahead"
 }

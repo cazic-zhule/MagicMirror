@@ -8,11 +8,28 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments: {
-			anytime: ["Hey there smexy!-mod", "Now go get those noobs!-mod", "Looking good, Robin Hood!-mod", "Nice face...-mod", "This room smelled a lot better a few moments ago..-mod"],
-			morning: ["Good morning, handsome!-mod", "Enjoy your day!-mod", "How was your sleep?-mod"],
-			afternoon: ["Hello, beauty-mod!", "You look hawt!-mod", "Looking good today!-mod"],
-			evening: ["Wow, you're such a great dancer!-mod", "You look purdy!-mod", "Hi, bb!-mod"],
-			"....-01-01": ["Death to 2021!-mod"]
+			anytime: [
+				"Hey there smexy!",
+				"I don't know bug...",
+				"Can we get a ps5 yet?",
+				"oooooohhh okay...",
+				"You're not crazy!  Ok just a little..",
+				"bye have a wonderful time!",
+				"Now go get those noobs!",
+				"Starting recording...",
+				"Booty bump! Da booty bump!",
+				"Do you ever feel like someones's watching you?",
+				"Looking good, Robin Hood!",
+				"Nice face...",
+				"You like that bb?",
+				"This room smelled a lot better a few moments ago..",
+				"Saving video... please wait",
+				""
+			],
+			morning: ["Good morning, handsome!", "Enjoy your day!", "How was your sleep?"],
+			afternoon: ["Hello, beauty!", "You look hawt!", "Looking good today!"],
+			evening: ["Wow, you're such a great dancer!", "You look purdy!", "Hi, bb!"],
+			"....-01-01": ["Death to 2021!"]
 		},
 		updateInterval: 30000,
 		remoteFile: null,
