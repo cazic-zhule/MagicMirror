@@ -18,7 +18,7 @@ Module.register("compliments", {
 				"Now go get those noobs!",
 				"Starting recording...",
 				"Booty bump! Da booty bump!",
-				"Do you ever feel like someones's watching you?",
+				"Do you ever feel like you're being watched?",
 				"Looking good, Robin Hood!",
 				"Nice face...",
 				"You like that bb?",
